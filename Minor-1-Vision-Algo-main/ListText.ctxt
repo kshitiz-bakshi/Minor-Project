@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=dir
+comment0.target=java.util.LinkedList\ fileToList(java.lang.String)
+comment1.params=dir\ link
+comment1.target=int\ listToFile(java.lang.String,\ java.util.LinkedList)
+comment2.params=dir
+comment2.target=void\ newFile(java.lang.String)
+numComments=3

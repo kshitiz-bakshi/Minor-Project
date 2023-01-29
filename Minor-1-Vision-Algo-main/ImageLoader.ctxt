@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=a\ w\ h
+comment0.target=java.awt.image.BufferedImage\ scaledImage(java.awt.Image,\ int,\ int)
+comment1.params=name\ w\ h
+comment1.target=java.awt.image.BufferedImage\ loadImage(java.lang.String,\ int,\ int)
+numComments=2

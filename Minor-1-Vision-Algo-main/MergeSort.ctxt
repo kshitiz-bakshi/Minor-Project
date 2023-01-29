@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ run()
+comment1.params=x
+comment1.target=void\ inPlaceSort(java.lang.Integer[])
+comment2.params=x\ first\ last
+comment2.target=void\ inPlaceSort(java.lang.Integer[],\ int,\ int)
+numComments=3
